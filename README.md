@@ -1,6 +1,5 @@
 # Predicción de la Presencia de Artistas en Playlists Editoriales de Spotify
 
-Proyecto final del curso DataXperience, 4to semestre, Universidad EAN.
 
 ## Pregunta principal
 
